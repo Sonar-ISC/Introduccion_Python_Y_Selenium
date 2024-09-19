@@ -4,7 +4,22 @@ La idea de esta actividad es, en primera instancia, conocer la estructura más b
 
 ## Desafío
 
+A partir de la búsqueda "Polo Institucional Hombre" en la [página Tienda UTP](https://tienda.utp.edu.co/), y de la siguiente lista:
 
+```python
+polos = [
+    "Polo Institucional bordada Verde Militar Hombre",
+    "Polo Institucional bordada Negra Hombre",
+    "Polo Institucional bordada Ocre Hombre",
+    "Polo Institucional bordada Crema Hombre",
+    "Polo institucional crema hombre",
+    "Polo institucional ocre hombre “Soy Egresado”",
+    "Polo institucional camel hombre",
+    "Camiseta polo verde con azul hombre"
+]
+```
+
+Verifique que los resultados de la lista coinciden con la lista proporcionada.
 
 ---
 ## Consideraciones
