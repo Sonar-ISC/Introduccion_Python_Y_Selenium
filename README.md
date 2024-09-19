@@ -57,7 +57,7 @@ WebElement es una interfaz que representa un elemento en una página web. WebEle
 interacción con elementos en una página web.
 
 ```python
-element = driver.findElement(By.ID("id"));
+element = driver.findElement(By.ID, "id")
 ```
 
 Se puede interactuar con los elementos de la siguiente manera:
